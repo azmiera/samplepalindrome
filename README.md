@@ -1,2 +1,2 @@
 # samplepalindrome
-just a simple coding
+just a sample coding
